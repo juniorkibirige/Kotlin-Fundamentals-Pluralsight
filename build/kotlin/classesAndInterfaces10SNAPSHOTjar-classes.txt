@@ -1,0 +1,1 @@
+C:\Users\junki\Desktop\GADS Projects\classesAndInterfaces\build\classes\kotlin\main\lan\tms\Person.class;C:\Users\junki\Desktop\GADS Projects\classesAndInterfaces\build\classes\kotlin\main\lan\tms\PersonKt.class;C:\Users\junki\Desktop\GADS Projects\classesAndInterfaces\build\classes\kotlin\main\lan\tms\Signatory.class
